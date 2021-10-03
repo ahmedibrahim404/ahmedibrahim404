@@ -1,5 +1,4 @@
 <div align="center">
-[![Repos Badge](https://badges.pufler.dev/repos/ahmedibrahim404)](https://badges.pufler.dev)
 <img src="https://komarev.com/ghpvc/?username=ahmedibrahim404&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedibrahim404" />
 </div>
 
