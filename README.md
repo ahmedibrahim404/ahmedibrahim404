@@ -7,17 +7,15 @@
 <h3 align="center">1st year Computer Engineering Student</h3>
 <h2 align="center">Personal Details</h2>
 <p align="center">
-	
-	
 1. Learning programming languages: HTML, CSS, JavaScript, C++ 
-
 2. Likes Competitive Programming, and Back-end development
+</p>
 
-4. Contact me via linkedin: <a href = "https://www.linkedin.com/in/ahmedibrahim404/" target="blank">Ahmed Ibrahim</a>
-
-7. My repositories: <a href= "https://github.com/ahmedibrahim404?tab=repositories" target="blank"> Repositories</a>
-
-
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<p align="center">
+<br>
+<a href="https://www.linkedin.com/in/ahmedibrahim404/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:ahmed.ibr.hashim@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
 
 
