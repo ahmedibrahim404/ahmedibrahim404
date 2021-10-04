@@ -7,8 +7,11 @@
 <h3 align="center">1st year Computer Engineering Student</h3>
 <h2 align="center">Personal Details</h2>
 <p align="center">
+  
 1. Learning programming languages: HTML, CSS, JavaScript, C++ 
+  
 2. Likes Competitive Programming, and Back-end development
+  
 </p>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
