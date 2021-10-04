@@ -23,9 +23,6 @@
 
 <div align="center">
 
-![ahmedibrahim404 github stats](https://github-readme-stats.vercel.app/api?username=ahmedibrahim404&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-
-
 ![ahmedibrahim404 github streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedibrahim404&theme=radical&include_all_commits=true&count_private=true)
 
 
