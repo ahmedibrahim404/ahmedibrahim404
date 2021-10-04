@@ -23,7 +23,7 @@
 
 <div align="center">
 
-![LachlanDev github stats](https://github-readme-stats.vercel.app/api?username=ahmedibrahim404&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![ahmedibrahim404 github stats](https://github-readme-stats.vercel.app/api?username=ahmedibrahim404&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 
 </div>
