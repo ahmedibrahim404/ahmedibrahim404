@@ -23,4 +23,7 @@
   
 ![ahmedibrahim404 github streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedibrahim404&theme=radical&include_all_commits=true&count_private=true)
 
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedibrahim404&count_private=true&theme=radical)
+
+  
 </div>
