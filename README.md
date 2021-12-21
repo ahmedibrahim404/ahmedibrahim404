@@ -1,14 +1,6 @@
 # Hey, I'm [Ahmed!](https://github.com/ahmedibrahim404)
 
 <h3 align="center">1st year Computer Engineering Student</h3>
-<h2 align="center">Personal Details</h2>
-<p align="center">
-  
-1. Fimiliar with programming languages: HTML, CSS, JavaScript, C++ 
-  
-2. Likes Competitive Programming, and Back-end development
-  
-</p>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="center">
