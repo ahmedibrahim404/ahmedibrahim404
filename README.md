@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Ahmed Ibrahim from Egypt who Computer Engineering Student, loves Competitive Programming and Backend Development, always learning new things, making new projects.
+I am Ahmed Ibrahim from Egypt، A Computer Engineering Student, who loves Competitive Programming and Backend Development, always learning new things, making new projects.
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="center">
